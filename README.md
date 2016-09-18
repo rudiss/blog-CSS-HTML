@@ -1,2 +1,2 @@
 # blog-CSS-HTML
-![IMG](/Users/rudis/WebstormProjects/Blog/img/blog.png)
+![IMG](img/blog.png)
